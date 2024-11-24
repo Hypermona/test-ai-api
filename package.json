@@ -1,0 +1,23 @@
+{
+  "name": "test-ai-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "type": "module",
+  "license": "ISC",
+  "dependencies": {
+    "@ai-sdk/google": "0.0.55",
+    "@ai-sdk/openai": "0.0.70",
+    "ai": "^3.4.29",
+    "archiver": "^7.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "fs-extra": "^11.2.0",
+    "zod": "^3.23.8"
+  }
+}
